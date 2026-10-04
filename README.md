@@ -79,3 +79,4 @@ Ushbu loyiha **Sirojbek Muxtorov**ning shaxsiy brendi, Full-Stack va AI/ML muhan
 
 © 2026 Sirojbek Muxtorov. Barcha huquqlar himoyalangan.
 # sirojbek-uz
+# sirojbek-uz
