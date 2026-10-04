@@ -1,37 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sirojbek Muxtorov — Personal 3D Portfolio Website
 
-## Getting Started
+> **Full-Stack Software Engineer | AI/ML & Automation Engineer**  
+> Samarqand, O‘zbekiston • [GitHub Profile](https://github.com/sirojbekmuxtorov2006) • Tel: `+998 90 192 0755`
 
-First, run the development server:
+Ushbu loyiha **Sirojbek Muxtorov**ning shaxsiy brendi, Full-Stack va AI/ML muhandislik salohiyatini namoyish etuvchi yuqori darajada interaktiv, zamonaviy va 3D elementlarga boy veb-portfoliosidir.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Asosiy Xususiyatlar
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Interaktiv 3D Arxitektura Yadrosi (Three.js)**:
+   - Markaziy dasturiy yadro va uning atrofida aylanuvchi 4 ta modullar (Frontend, Backend, Database, AI).
+   - Sichqoncha harakatiga silliq javob beruvchi parallaks va sekin avto-aylanish.
+   - Tashqi pullik modellarsiz, Three.js ning standart geometrik shakllari asosida yaratilgan.
+   - WebGL bo‘lmagan yoki past quvvatli qurilmalar uchun zamonaviy CSS/SVG golografik fallback.
+   - `prefers-reduced-motion` sozlamasi hisobga olingan.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. **Ikki Tilli Tizim (O‘zbekcha / English)**:
+   - Bir zumda almashtirish (UZ / EN).
+   - Barcha matnlar, loyiha tavsiflari va texnik atamalar haqiqiy va toza tarjima qilingan.
+   - `localStorage` orqali foydalanuvchi tanlovi saqlanadi.
 
-## Learn More
+3. **Filtrlash va Loyihalar Ko‘rgazmasi**:
+   - Kategoriyalar: *Barchasi*, *Full-Stack*, *AI*, *Education*, *E-Commerce*.
+   - 7 ta asosiy loyiha: SIROJBEK AI Agent, 21-ASR Website, Flashcards UZ, Speke-UZ, Seller E-Commerce Platform, AI-Powered Startup Platform, Time Tracking Application.
+   - Har bir loyiha uchun to‘liq tafsilotlar modali va maxsus tayyorlangan **"Interfeys konsepti"** interaktiv preview ko‘rinishi.
+   - Taxminiy va soxta havolalarsiz, toza ma’lumotlar arxitekturasi.
 
-To learn more about Next.js, take a look at the following resources:
+4. **Professional Kasbiy Vaqt Chizig‘i (Timeline)**:
+   - Vertikal ko‘rinishdagi interaktiv tajriba tarixi: Freelance (2023–hozirgacha), Startup, 21-ASR, Flashcards UZ, IT Center, Meteor.
+   - To‘liq asoslangan, reallikka mos tavsiflar.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. **Texnik Ko‘nikmalar va Xizmatlar**:
+   - Frontend, Backend, AI/ML, Databases va DevOps bo‘yicha guruhlangan kartalar (foizlar va reytinglarsiz, toza texnologik nishonlar).
+   - 6 ta to‘liq siklli dasturlash xizmatlari.
+   - Mohirdev, Ustoz AI, SAMMI, Udemy va Coursera ta’lim yo‘nalishlari.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+6. **To‘g‘ridan-to‘g‘ri Aloqa**:
+   - Sarlavha: *“G‘oyangizni ishlaydigan mahsulotga aylantiramiz.”*
+   - Telefon orqali bir bosishda qo‘ng‘iroq qilish va nusxa olish (`+998 90 192 0755`).
+   - GitHub profiliga to‘g‘ridan-to‘g‘ri havola (`https://github.com/sirojbekmuxtorov2006`).
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠 Texnologiyalar To‘plami
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# x-clone
+- **Framework**: Next.js 16 (App Router)
+- **Til**: TypeScript
+- **Dizayn**: Tailwind CSS (Dark Graphite, Electric Cyan, Neon Purple)
+- **3D Graphics**: Three.js
+- **Ikonkalar**: Lucide React + Maxsus SVG
+- **Shifrtlar**: Space Grotesk & Inter (Next/Font)
+
+---
+
+## 🚀 Ishga Tushirish (Local Setup)
+
+1. Bog‘liqliklarni o‘rnatish:
+   ```bash
+   npm install
+   ```
+
+2. Dasturchi rejimida ishga tushirish:
+   ```bash
+   npm run dev
+   ```
+   Brauzerda [http://localhost:3000](http://localhost:3000) manzilini oching.
+
+3. Ishlab chiqarish (Production) uchun yig‘ish:
+   ```bash
+   npm run build
+   npm run start
+   ```
+
+---
+
+## 📄 Litsenziya
+
+© 2026 Sirojbek Muxtorov. Barcha huquqlar himoyalangan.
+# sirojbek-uz
